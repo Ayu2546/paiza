@@ -31,4 +31,4 @@ int fighting(int l, int e) {
     }
 
     return 0;
-}
+} 
