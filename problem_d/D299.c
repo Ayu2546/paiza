@@ -7,4 +7,4 @@ int main() {
     printf("%d\n", n * c);
     
     return 0;
-}
+} 
